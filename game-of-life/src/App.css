@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  margin: auto;
+  display: table;
+  margin-top: 10px;
+}
+
+h1, h2, h3 , h4 {
+  color: black;
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  margin-top: 10px;
+}
+
