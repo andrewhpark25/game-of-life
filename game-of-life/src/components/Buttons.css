@@ -13,3 +13,20 @@ button {
     cursor: pointer;
     border-radius: 5px;
   } 
+
+ 
+ ol {
+  list-style-position: inside;
+  text-align:center;
+ }
+  li {
+    display: list-item;
+    text-align: left;
+    margin-left: 35%;
+  }
+
+  p {
+    text-align:center;
+    margin-left: 33%;
+    margin-right: 32%;
+  }

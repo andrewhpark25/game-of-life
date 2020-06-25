@@ -1,12 +1,9 @@
 .App {
   text-align: center;
+  background:#FF4466
 }
 
-.center {
-  margin: auto;
-  display: table;
-  margin-top: 10px;
-}
+
 
 h1, h2, h3 , h4 {
   color: black;
@@ -15,4 +12,53 @@ h1, h2, h3 , h4 {
   width: 50%;
   margin-top: 10px;
 }
+
+
+
+.small {
+ margin-left: -100px;
+  background-color: white;
+  color: black;
+  font-size: 1.5rem;
+  transition: all .3s;
+  text-decoration: none;
+
+}
+
+.small:hover {
+  background-color: #66ff66;
+  cursor: pointer;
+  border-radius: 5px;
+} 
+
+.original {
+
+
+  margin-left: 50px;
+   background-color: white;
+   color: black;
+   font-size: 1.5rem;
+   transition: all .3s;
+   text-decoration: none;
+ }
+ .original:hover {
+  background-color: #66ff66;
+  cursor: pointer;
+  border-radius: 5px;
+} 
+.big {
+  margin-left: 50px;
+   background-color: white;
+   color: black;
+   font-size: 1.5rem;
+   transition: all .3s;
+   text-decoration: none;
+ 
+ }
+
+ .big:hover {
+  background-color: #66ff66;
+  cursor: pointer;
+  border-radius: 5px;
+} 
 
