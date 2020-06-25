@@ -1,9 +1,11 @@
 .App {
   text-align: center;
-  background:#FF4466
+
 }
 
-
+body {
+  background:#FF4466;
+}
 
 h1, h2, h3 , h4 {
   color: black;
